@@ -1,0 +1,58 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: deepskyblue;
+}
+
+
+
+p, span {
+    color: white;
+    width: 300px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 15px;
+    margin-top: 35px ;
+    margin-bottom: 15px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+/**
+Comentario dentro de un documento CSS
+*/
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color:purple;
+    border: 11px dotted purple;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 20px;
+    margin-top: 40px ;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+section {
+    width: 300px;
+    border: 15px solid greenyellow;
+    padding: 50px;
+    margin: 20px;
+}
+
+#mi_parrafo {
+    color: rgb(211, 77, 92);
+    font-size: 23px;
+    border: 1px solid greenyellow;
+}
+
+.estaesmiclase {
+    font-weight: bold;
+    color: green;
+}
+
+section h2 {
+    font-size: 90px;
+}
